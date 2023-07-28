@@ -1,1 +1,0 @@
-np.trapz(y, x, dx, axis)

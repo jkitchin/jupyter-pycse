@@ -1,1 +1,0 @@
-np.prod(a, axis=0)

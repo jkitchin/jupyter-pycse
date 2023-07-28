@@ -1,1 +1,0 @@
-x, y = poly.linspace(n=100)

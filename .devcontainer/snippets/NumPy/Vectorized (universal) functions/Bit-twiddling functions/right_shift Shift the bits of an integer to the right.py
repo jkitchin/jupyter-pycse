@@ -1,1 +1,0 @@
-np.right_shift(x1, x2)

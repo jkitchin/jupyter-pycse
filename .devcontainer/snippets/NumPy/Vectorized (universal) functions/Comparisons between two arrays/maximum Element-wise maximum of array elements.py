@@ -1,1 +1,0 @@
-np.maximum(x1, x2)

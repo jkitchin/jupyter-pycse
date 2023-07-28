@@ -1,1 +1,0 @@
-np.not_equal(x1, x2)

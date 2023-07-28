@@ -1,1 +1,0 @@
-poly = P.basis(n)

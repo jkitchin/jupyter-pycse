@@ -1,1 +1,0 @@
-np.cumsum(a, axis=0)

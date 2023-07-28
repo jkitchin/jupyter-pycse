@@ -1,1 +1,0 @@
-np.logical_and(x1, x2)

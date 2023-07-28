@@ -1,1 +1,0 @@
-np.trace(a, axis1, axis2)

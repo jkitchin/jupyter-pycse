@@ -1,1 +1,0 @@
-np.hypot(x1, x2)

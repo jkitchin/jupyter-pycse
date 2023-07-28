@@ -1,1 +1,0 @@
-np.gradient(f, *varargs, **kwargs)

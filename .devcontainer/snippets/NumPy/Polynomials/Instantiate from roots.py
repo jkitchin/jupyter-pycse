@@ -1,1 +1,0 @@
-poly = P.fromroots([1, 2, 3])

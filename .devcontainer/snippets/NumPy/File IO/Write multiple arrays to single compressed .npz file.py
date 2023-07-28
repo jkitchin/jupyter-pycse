@@ -1,1 +1,0 @@
-np.savez_compressed(filename, x, y, z)

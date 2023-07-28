@@ -1,1 +1,0 @@
-np.save(filename, x)

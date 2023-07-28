@@ -1,1 +1,0 @@
-np.diff(a, n, axis=0)

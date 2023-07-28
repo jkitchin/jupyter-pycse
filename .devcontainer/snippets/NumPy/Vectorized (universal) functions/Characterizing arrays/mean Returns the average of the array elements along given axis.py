@@ -1,1 +1,0 @@
-np.mean(a, axis=0)

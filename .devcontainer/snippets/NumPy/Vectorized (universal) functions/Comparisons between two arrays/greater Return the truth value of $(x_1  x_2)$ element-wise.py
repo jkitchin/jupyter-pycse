@@ -1,1 +1,0 @@
-np.greater(x1, x2)

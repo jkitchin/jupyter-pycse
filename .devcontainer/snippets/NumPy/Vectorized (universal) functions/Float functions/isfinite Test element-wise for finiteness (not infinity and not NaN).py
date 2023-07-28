@@ -1,1 +1,0 @@
-np.isfinite(x)

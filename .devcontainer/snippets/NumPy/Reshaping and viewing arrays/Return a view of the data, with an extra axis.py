@@ -1,1 +1,0 @@
-a[:, np.newaxis]

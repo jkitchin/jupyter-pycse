@@ -1,1 +1,0 @@
-np.interp(x, xp, fp)

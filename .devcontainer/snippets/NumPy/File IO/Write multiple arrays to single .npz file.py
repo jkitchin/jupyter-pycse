@@ -1,1 +1,0 @@
-np.savez(filename, x, y, z)

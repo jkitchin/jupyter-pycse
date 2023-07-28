@@ -1,1 +1,0 @@
-np.kron(np.eye(2), np.ones((2,2)))

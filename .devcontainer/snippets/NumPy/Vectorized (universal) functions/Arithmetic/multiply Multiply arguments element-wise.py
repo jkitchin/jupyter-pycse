@@ -1,1 +1,0 @@
-np.multiply(x1, x2)

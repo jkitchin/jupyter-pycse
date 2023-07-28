@@ -1,1 +1,0 @@
-np.arccos(x)

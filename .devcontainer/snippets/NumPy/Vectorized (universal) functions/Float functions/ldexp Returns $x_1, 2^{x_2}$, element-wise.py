@@ -1,1 +1,0 @@
-np.ldexp(x1, x2)

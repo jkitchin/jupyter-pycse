@@ -1,1 +1,0 @@
-new_array = np.zeros_like(old_array, dtype=complex)

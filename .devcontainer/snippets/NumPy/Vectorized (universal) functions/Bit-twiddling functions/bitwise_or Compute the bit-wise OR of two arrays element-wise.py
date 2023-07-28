@@ -1,1 +1,0 @@
-np.bitwise_or(x1, x2)

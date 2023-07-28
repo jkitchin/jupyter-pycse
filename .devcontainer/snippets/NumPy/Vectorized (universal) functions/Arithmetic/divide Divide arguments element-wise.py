@@ -1,1 +1,0 @@
-np.divide(x1, x2)

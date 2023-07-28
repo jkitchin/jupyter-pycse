@@ -1,1 +1,0 @@
-data = np.genfromtxt(filename)

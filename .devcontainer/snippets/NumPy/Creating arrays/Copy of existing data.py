@@ -1,1 +1,0 @@
-new_array = np.copy(old_array)
