@@ -1,0 +1,4 @@
+# Put the packages you want installed here.
+# These are only installed when you rebuild or create a codespace
+# See .devcontainer/Dockerfile to see what is already installed
+plotnine

@@ -1,0 +1,17 @@
+{
+    "VideoChat": {
+      "room_prefix": "pycse-ddm",
+      "rooms": [
+        {
+          "id": "water-cooler",
+          "displayName": "Water cooler",
+          "description": "For chit-chat"
+        },
+        {
+          "id": "conference-room",
+          "displayName": "Conference room",
+          "description": "For meetings"
+        }
+      ]
+    }
+  }
